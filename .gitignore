@@ -1,0 +1,8 @@
+# intentionally vulnerable — do not deploy
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+vendor/
+*.o
+*.out
